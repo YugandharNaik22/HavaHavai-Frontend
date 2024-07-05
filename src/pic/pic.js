@@ -1,0 +1,1 @@
+export const pic = "https://havahavai-assg.onrender.com";
